@@ -1,44 +1,71 @@
-<h1 align="center">Hi 👋, I'm Mirsad</h1>
-<h3 align="center">I am a data technician specializing in full-stack development and currently pursuing my education, with three years still to go.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mucco2&label=Profile%20views&color=0e75b6&style=flat" alt="mucco2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mucco2" alt="mucco2" /></a> </p>
-
-- 🔭 I’m currently working on [C# JAVA and Python Backend/Unit Test](https://github.com/Mucco2?tab=repositories)
-
-- 🌱 I’m currently learning **Database Backend C# and API setup**
-
-- 👯 I’m looking to collaborate on [my React Native WepAPP](https://github.com/Mucco2/mucco.git)
-
-- 🤝 I’m looking for help with **learing Next.js Framework And Blazor**
-
-- 👨‍💻 All of my projects are available at [https://mucco2.github.io/](https://mucco2.github.io/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mirsad-k%C3%B6se-807559282/](https://www.linkedin.com/in/mirsad-k%C3%B6se-807559282/)
-
-- 💬 Ask me about **HTML/CSS/JS**
-
-- 📫 How to reach me **Mucco2635@gmail.com or 45+93832610**
-
-- 📄 Know about my experiences [file:///C:/Users/MIKO/Desktop/Updatedcvan/cvpdfupdated.pdf](file:///C:/Users/MIKO/Desktop/Updatedcvan/cvpdfupdated.pdf)
-
-- ⚡ Fun fact **I like to build Fullstack WebApss with HTML/CSS/JS and React native**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mucco2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mucco2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mirsad köse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirsad köse" height="30" width="40" /></a>
-<a href="https://fb.com/mirsad abdullah kose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirsad abdullah kose" height="30" width="40" /></a>
-<a href="https://instagram.com/mirsadkse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirsadkse" height="30" width="40" /></a>
-<a href="https://discord.gg/556163806330486784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="556163806330486784" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gi" alt="coding" width="200"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Mirsad Köse</h1>
+<h3 align="center">A Data Technician & Full-Stack Developer in training 📚 (3 years to go!)</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucco2&show_icons=true&locale=en&layout=compact" alt="mucco2" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mucco2&show_icons=true&locale=en" alt="mucco2" /></p>
+<p align="center">
+  <!-- GitHub stats -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mucco2&show_icons=true&theme=dark&hide_border=true" alt="Mirsad's GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucco2&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mucco2&" alt="mucco2" /></p>
+## 🚀 About Me
+
+- 🔭 **Currently building:** Backend services in C#, Java & Python with full unit tests
+- 🌱 **Learning:** Advanced Database Backends (C#) & API Design
+- 👯 **Open to collaborating on:** [My React Native WebAPP](https://github.com/Mucco2/mucco.git)
+- 🤝 **Seeking help with:** Next.js & Blazor frameworks
+- 📝 **Articles:** [LinkedIn](https://www.linkedin.com/in/mirsad-k%C3%B6se-807559282/)
+- 💬 **Ask me about:** HTML / CSS / JavaScript
+- ⚡ **Fun fact:** I build full-stack web apps with React Native & pure JS
+
+## 🔧 Tech Stack
+
+<p align="left">
+  <!-- Use shields.io for each skill badge -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git"/>
+</p>
+
+## 📫 Get in Touch
+
+<p align="left">
+  <a href="mailto:Mucco2635@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/mirsad-k%C3%B6se-807559282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://dev.to/mucco2"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to"/></a>
+  <a href="https://twitter.com/mucco2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+</p>
+
+---
+
+<details>
+<summary>📂 **My Projects**</summary>
+
+| Name                         | Description                            | Link                                             |
+|------------------------------|----------------------------------------|--------------------------------------------------|
+| React Native WebApp          | Cross-platform mobile/web app 🕸️      | [GitHub](https://github.com/Mucco2/mucco.git)    |
+| Backend Microservices        | RESTful APIs in C#, Java & Python 🚀   | [Repos](https://github.com/Mucco2?tab=repositories)|
+| Portfolio Website            | Static site with MDX & Next.js 🌐      | [Demo](https://mucco2.github.io/)                |
+
+</details>
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mucco2&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
