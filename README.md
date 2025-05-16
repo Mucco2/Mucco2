@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gi" alt="coding" width="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirsad Köse</h1>
