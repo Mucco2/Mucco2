@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirsad Köse</h1>
-<h3 align="center">A Data Technician & Full-Stack Developer in training 📚 (3 years to go!)</h3>
+<h3 align="center">A Data Technician & Full-Stack Developer in training 📚 (2 years to go!)</h3>
 
 ---
 
