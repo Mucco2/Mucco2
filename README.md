@@ -96,9 +96,6 @@ I am currently sharpening my backend skills in **C#**, **Java** and **Python**, 
 
 <div align="center">
 
-  <img height="178" src="https://github-readme-stats.vercel.app/api?username=Mucco2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=14B8A6" alt="Mirsad's GitHub stats" />
-  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucco2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Most used languages" />
-
   <br />
   <br />
 
