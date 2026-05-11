@@ -8,9 +8,6 @@
 ---
 
 <p align="center">
-  <!-- GitHub stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mucco2&show_icons=true&theme=dark&hide_border=true" alt="Mirsad's GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucco2&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ## 🚀 About Me
