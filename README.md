@@ -96,16 +96,12 @@ I am currently sharpening my backend skills in **C#**, **Java** and **Python**, 
 
 <div align="center">
 
-  <br />
-  <br />
-
   <img src="https://streak-stats.demolab.com?user=Mucco2&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=14B8A6&currStreakLabel=38BDF8" alt="GitHub streak stats" />
 
   <br />
-  100
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mucco2&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=14B8A6&point=FFFFFF" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/38BDF8/Mucco2" alt="Contribution chart" width="100%" />
 
 </div>
 
